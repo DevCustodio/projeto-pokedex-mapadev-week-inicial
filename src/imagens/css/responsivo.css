@@ -24,6 +24,7 @@
     .cartao-pokemon .cartao-info .infomacoes {
          display: flex;
          justify-content: space-between;
+         padding: 0;
     }
 
     .cartao-pokemon .cartao-info h3{
